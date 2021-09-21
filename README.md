@@ -6,3 +6,6 @@ it contains 14 Web pages with two Cascading Style Sheet file.
 
 
 It is one of my project i really enjoyed working on and the same time learning more skills.
+
+This Website belongs to CCC Ebenezery Parish, Allrights reserved.
+Medias from this page requires permission from the developer before downloading unless stated otherwise.
